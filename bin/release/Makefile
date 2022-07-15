@@ -4,7 +4,7 @@ FONTS= main.cpp
 INCLUDE = ../../include
 LIBFLAGS = -lcurl -ljsoncpp
 CTAGS = -Wall -pedantic -O2 
-OUT = main
+OUT = moviesearch
 LIBDIR = ../lib
 
 
