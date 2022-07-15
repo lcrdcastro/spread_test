@@ -6,11 +6,11 @@ This is a C++ project that consists in retrieve information from a any given mov
 ## 💻 Requirements
     
 This project depends on libcurl and libjson-glib. The commands bellow will add those libraries to the system
-    ```
+    
+```  
     sudo apt install libcurl4-openssl-dev 
     sudo apt-get install -y libjson-glib-1.0-0
-    ```
-
+ ```
 
 ## Compiling
 
